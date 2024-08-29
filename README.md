@@ -1,3 +1,4 @@
+##DATE
 # Swapping-two-values
 ## AIM:
 To write a python program for swapping of two values
@@ -18,8 +19,10 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+![Screenshot 2024-08-29 103523](https://github.com/user-attachments/assets/06c84c24-d481-470b-afc3-207f1a9fdf00)
 
-
+## OUTPUT:
+![Screenshot 2024-08-29 103559](https://github.com/user-attachments/assets/59f3a07e-d44a-471e-aa2d-e9944b556ded)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
